@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-This prework study guide contains short bullet point notes on four of the topics covered in the prework section of the bootcamp. Opening Google Chrome's DevTools console by right-clicking the page in a Chrome browser and selecting the 'Inspect' option, the user can see the four topics covered, and of these topics is randomly suggested to look at first.
+This prework study guide contains short bullet point notes on four of the topics covered in the prework section of the bootcamp. Opening Google Chrome's DevTools console by right-clicking the page in a Chrome browser and selecting the 'Inspect' option, the user can see the four topics covered, and of these topics one is randomly suggested to look at first.
 
 ## Credits
 
